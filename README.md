@@ -6,3 +6,6 @@ shradha khapra
 
 # student
 delta student
+
+# Life 
+life is hard.
